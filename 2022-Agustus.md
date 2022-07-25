@@ -14,14 +14,15 @@
 #### Tanggal 25 Juli
 * [drsoap] Server jadi static IP
 * [drsoap] Meeting with client (Static IP + SSL)
-* [drsoap] Final QC (checkout dan data migration)
 * [cloudeka] FE base design template partner dashboard (Day 5)
+* [general] Update Server kena block
 
 #### Tanggal 26 Juli
+* [drsoap] Final QC (checkout dan data migration)
 * [cloudeka] FE base design template partner dashboard (Day 4)
-* [YHS] Riset wix untuk YHS (Donation, donation by campaign like kita bisa, volunteer)
 
 #### Tanggal 27 Juli
+* [YHS] Riset wix untuk YHS (Donation, donation by campaign like kita bisa, volunteer)
 * [SimpanAja] Perbedaan development Wix, Custom, DLL
 * [drsoap] Shutdown Site, Tarik semua data, ubah DNS (Deployment phase 1)
 
