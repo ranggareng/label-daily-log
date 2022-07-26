@@ -14,6 +14,11 @@
 #### Tanggal 25 Juli 2022
 * Design masih belum ada approval, frontend masih belum bisa dikerjakan.
 
+#### Tanggal 26 Juli 2022
+* Design masih belum ada approval, frontend masih belum bisa dikerjakan.
+* Setelah difollow-up melalui WA Group Digital, diinformasikan akan meeting akan dihari kamis 28 Juli dengan client
+* Diinformasikan melalui WA Group Digital, disampaikan oleh Leo bahwa design sepertinya akan ada perubahan-perubahan lagi.
+
 ### Drsoap
 
 #### Tanggal 20 Juli 2022
