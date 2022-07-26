@@ -18,21 +18,25 @@
 * [general] Update Server kena block
 
 #### Tanggal 26 Juli
-* [drsoap] Final QC (checkout dan data migration)
-* [cloudeka] FE base design template partner dashboard (Day 4)
+* [cloudeka] FE base design template partner dashboard (Day 6 - Lembuer 19:30 - 22:15)
+* [Butani] Supervisi, diskusi terkait masalah dan solusi
+* [SimpanAja] Meeting dengan vendor virtual tour
 
 #### Tanggal 27 Juli
-* [YHS] Riset wix untuk YHS (Donation, donation by campaign like kita bisa, volunteer)
-* [SimpanAja] Perbedaan development Wix, Custom, DLL
-* [drsoap] Shutdown Site, Tarik semua data, ubah DNS (Deployment phase 1)
+* [cloudeka] FE base design template partner dashboard (Day 7)
+* [drsoap] Field export kolom untuk mokapos
+* [drsoap] Final QC (checkout dan data migration)
 
 #### Tanggal 28 Juli
+* [SimpanAja] Perbedaan development Wix, Custom, DLL
+* [YHS] Riset wix untuk YHS (Donation, donation by campaign like kita bisa, volunteer)
 
 #### Tanggal 29 Juli
 
 ### Rekap Bulanan
 Project 		| Tipe Pekerjaan
 ------------	| ---------------
+butani			| Supervisi
 drsoap			| Supervisi, Administrasi, Prepare Deploy
 akraya			| Administrasi
 cloudeka		| Administrasi, Coding
