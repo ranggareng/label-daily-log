@@ -23,15 +23,20 @@
 * [SimpanAja] Meeting dengan vendor virtual tour
 
 #### Tanggal 27 Juli
-* [cloudeka] FE base design template partner dashboard (Day 7)
+* [cloudeka] FE base design template partner dashboard (Day 7 - Lembur 19:30 - 22:15)
 * [drsoap] Field export kolom untuk mokapos
-* [drsoap] Final QC (checkout dan data migration)
 
 #### Tanggal 28 Juli
 * [SimpanAja] Perbedaan development Wix, Custom, DLL
 * [YHS] Riset wix untuk YHS (Donation, donation by campaign like kita bisa, volunteer)
+* [cloudeka] Meeting plan feedback dari client
+* [cloudeka] FE base design template partner dashboard (Day 7 - Lembur 19:30 - 22:15)
+* [akraya] Meeting Design dengan client
 
 #### Tanggal 29 Juli
+* [cloudeka] FE base design template partner dashboard (Day 7 - Lembur 19:30 - 22:15)
+* [drsoap] Final QC (checkout dan data migration)
+
 
 ### Rekap Bulanan
 Project 		| Tipe Pekerjaan
